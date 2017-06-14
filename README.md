@@ -1,4 +1,4 @@
-# notesTRTL
+# Database Structure
 
 We will need 3 (or maybe 2...more on that later) collections to make TRTL run.  A **Candidates Collection** that will store all the info for our candidates - from personal info, to interview scores, to compensation details.  A **University Collection** that will store all the info for the campus locations, including program offerings and class dates.  A **User Collection** that will store all the log in info for internal employees and control access rights.
 
