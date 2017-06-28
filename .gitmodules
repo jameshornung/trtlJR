@@ -1,0 +1,3 @@
+[submodule "prospectEntry"]
+	path = prospectEntry
+	url = git@github.com:jameshornung/prospectEntry.git
