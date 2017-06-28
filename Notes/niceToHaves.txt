@@ -1,0 +1,7 @@
+- personalized “to do” list (3 tabs, daily & monthly with ability to add tasks and mark off as completed or completely clear event from view / 3rd tab as scratchpad)
+
+- Real time feedback / evaluation on interview forms (ie 76% of candidates with this tech score have passed their final interview) - for HR would it be better for this tracker to focus on the tech interview or the final interview? (I'm leaning towards final)
+
+- system for linking recruiting and retaining together.  
+	- ability to see how a particular Ta's performance was
+	- analytics that let us see how well our interview scores correlate to the classroom experience

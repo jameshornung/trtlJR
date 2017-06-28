@@ -1,2 +1,12 @@
 Replace Greenhouse
- - capture candidate personal details
+- capture candidate personal details
+
+Replace Google Forms
+- forms for conducting tech interviews and tracking candidate scores
+
+Replace Score Matrix Summary
+- be able to filter and view candidate details
+
+Replace Score Matrix Role Count
+
+Replace Potential Hires
